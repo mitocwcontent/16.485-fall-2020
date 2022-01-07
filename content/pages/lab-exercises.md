@@ -1,0 +1,20 @@
+---
+content_type: page
+title: Lab Exercises
+uid: 10b3675e-0a49-2e25-a3f6-60fe59ff335e
+---
+
+All available files for the lab exercises are provided below.
+
+| UnitS | Assignments | Supporting Files | PLATFORMS |
+| --- | --- | --- | --- |
+|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 1: Linux, C++, Git {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lab 1 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab1slides) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lab 1 recitation (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab1notes) {{< br >}}{{< br >}} [Lab 1 handout](https://vnav.mit.edu/labs/lab1/) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 2: ROS {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lab 2 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab2slides) {{< br >}}{{< br >}} [Lab 2 handout](https://vnav.mit.edu/labs/lab2/) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 3: 3D trajectory following {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab 3 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab3slides)  {{< br >}}{{< br >}} [Lab 3 handout](https://vnav.mit.edu/labs/lab3/) {{< br >}}{{< br >}}  | Drone / simulator |
+|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 4: 3D trajectory optimization {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab 4 slides (PDF)]({{< baseurl >}}/resources/mit16_485f20_lab4slides) {{< br >}}{{< br >}} [Lab 4 handout](https://vnav.mit.edu/labs/lab4/) {{< br >}}{{< br >}}  | Drone / simulator |
+|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 5: feature detection {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab 5 slides (PDF)]({{< baseurl >}}/resources/mit16_485f20_lab5slides) {{< br >}}{{< br >}} [Lab 5 handout](https://vnav.mit.edu/labs/lab5/) {{< br >}}{{< br >}}  | Drone / simulator |
+|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 6: object localization {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab 6 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab6slides) {{< br >}}{{< br >}} [Lab 6 handout](https://vnav.mit.edu/labs/lab6/) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Drone / datasets {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 7: GTSAM {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab 7 slides (PDF)]({{< baseurl >}}/resources/mit16_485f20_lab7slides) {{< br >}}{{< br >}} [Lab 7 handout](https://vnav.mit.edu/labs/lab7/) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Drone / simulator {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 8: place recognition {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab 8 slides (PDF)]({{< baseurl >}}/resources/mit16_485f20_lab8slides) {{< br >}}{{< br >}} [Lab 8 handout](https://vnav.mit.edu/labs/lab8/) {{< br >}}{{< br >}}  | Drone / simulator |
+|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 9: SLAM {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab 9 slides (PDF)]({{< baseurl >}}/resources/mit_16_485f20_lab9slides) {{< br >}}{{< br >}} [Lab 9 handout](https://vnav.mit.edu/labs/lab9/) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Drone / datasets {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lab 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final project {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Depending on project {{< br >}}{{< br >}}
